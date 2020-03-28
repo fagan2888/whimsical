@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Phone_screenshot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tetris_bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cv_move_detect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tik-tac-toe" vcs="Git" />
+  </component>
+</project>
