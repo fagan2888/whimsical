@@ -80,7 +80,7 @@ while True:
     # write to file
     video_writer.write(frame)
 
-    print time.time() - t0
+    print (time.time() - t0)
     t0 = time.time()
 
     # Display the resulting image

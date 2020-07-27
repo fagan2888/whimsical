@@ -5,7 +5,7 @@ import cv2
 import imutils
 
 # 边缘扫描
-image = cv2.imread("book4.png")
+image = cv2.imread("imgs/book4.png")
 
 ratio = image.shape[0] / 500.0  # 比例
 orig = image.copy()

@@ -61,7 +61,7 @@ red=r
 
 thresh=cv2.threshold(red,130,255,cv2.THRESH_BINARY)[1]
 car_num=cv2.bitwise_not(thresh)
-cv2.imwrite('car_num.jpg',car_num)
+cv2.imwrite('imgs/car_num.jpg', car_num)
 code=pytesseract.image_to_string(thresh)
 print('car_plate=',code)
 

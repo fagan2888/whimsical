@@ -3,7 +3,7 @@ import gluoncv
 
 # you can change it to your image filename
 filename = 'classification-demo.png'
-filename='tri.jpg'
+filename= 'imgs/tri.jpg'
 # you may modify it to switch to another model. The name is case-insensitive
 model_name = 'ResNet50_v1d'
 # download and load the pre-trained model

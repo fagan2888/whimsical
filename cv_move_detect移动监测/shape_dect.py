@@ -51,7 +51,7 @@ import cv2
 
 import time
 
-image=cv2.imread('various.png')
+image=cv2.imread('imgs/various.png')
 
 resized = imutils.resize(image, width=300)
 ratio = image.shape[0] / float(resized.shape[0])
